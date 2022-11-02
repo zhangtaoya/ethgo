@@ -4,7 +4,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/umbracle/ethgo"
+	"github.com/zhangtaoya/ethgo"
 	"github.com/zhangtaoya/ethgo/tracker/store"
 )
 

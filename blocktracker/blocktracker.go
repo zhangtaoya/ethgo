@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/umbracle/ethgo"
+	"github.com/zhangtaoya/ethgo"
 	"github.com/zhangtaoya/ethgo/jsonrpc"
 )
 

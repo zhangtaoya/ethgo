@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/jmoiron/sqlx"
-	"github.com/umbracle/ethgo"
+	"github.com/zhangtaoya/ethgo"
 	"github.com/zhangtaoya/ethgo/tracker/store"
 
 	// Enable postgres for sqlx

@@ -15,7 +15,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/umbracle/ethgo"
+	"github.com/zhangtaoya/ethgo"
 	"github.com/zhangtaoya/ethgo/blocktracker"
 	"github.com/zhangtaoya/ethgo/etherscan"
 	"github.com/zhangtaoya/ethgo/jsonrpc/codec"

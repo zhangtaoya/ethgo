@@ -1,5 +1,5 @@
 export default {
-    projectLink: 'https://github.com/umbracle/ethgo', // GitHub link in the navbar
+    projectLink: 'https://github.com/zhangtaoya/ethgo', // GitHub link in the navbar
     docsRepositoryBase: 'https://github.com/zhangtaoya/ethgo/tree/master/website/pages', // base URL for the docs repository
     titleSuffix: ' – Ethgo',
     nextLinks: true,

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/umbracle/ethgo"
+	"github.com/zhangtaoya/ethgo"
 	"github.com/zhangtaoya/ethgo/builtin/ens"
 	"github.com/zhangtaoya/ethgo/jsonrpc"
 )

@@ -13,7 +13,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/umbracle/ethgo"
+	"github.com/zhangtaoya/ethgo"
 	"github.com/zhangtaoya/ethgo/abi"
 	"github.com/zhangtaoya/ethgo/jsonrpc"
 	"github.com/zhangtaoya/ethgo/tracker"

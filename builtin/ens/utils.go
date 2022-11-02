@@ -3,7 +3,7 @@ package ens
 import (
 	"strings"
 
-	"github.com/umbracle/ethgo"
+	"github.com/zhangtaoya/ethgo"
 	"golang.org/x/crypto/sha3"
 )
 

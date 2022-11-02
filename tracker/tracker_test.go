@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/umbracle/ethgo"
+	"github.com/zhangtaoya/ethgo"
 	"github.com/zhangtaoya/ethgo/abi"
 	"github.com/zhangtaoya/ethgo/blocktracker"
 	"github.com/zhangtaoya/ethgo/jsonrpc"

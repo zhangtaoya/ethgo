@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/umbracle/ethgo"
+	"github.com/zhangtaoya/ethgo"
 	"github.com/zhangtaoya/ethgo/compiler"
 	"github.com/zhangtaoya/ethgo/testutil"
 )
