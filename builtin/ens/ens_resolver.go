@@ -2,8 +2,8 @@ package ens
 
 import (
 	"github.com/umbracle/ethgo"
-	"github.com/umbracle/ethgo/contract"
-	"github.com/umbracle/ethgo/jsonrpc"
+	"github.com/zhangtaoya/ethgo/contract"
+	"github.com/zhangtaoya/ethgo/jsonrpc"
 	"strings"
 )
 

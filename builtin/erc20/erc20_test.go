@@ -5,9 +5,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/umbracle/ethgo"
-	"github.com/umbracle/ethgo/contract"
-	"github.com/umbracle/ethgo/jsonrpc"
-	"github.com/umbracle/ethgo/testutil"
+	"github.com/zhangtaoya/ethgo/contract"
+	"github.com/zhangtaoya/ethgo/jsonrpc"
+	"github.com/zhangtaoya/ethgo/testutil"
 )
 
 var (

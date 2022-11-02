@@ -1,4 +1,4 @@
-module github.com/umbracle/ethgo/cmd
+module github.com/zhangtaoya/ethgo/cmd
 
 go 1.17
 

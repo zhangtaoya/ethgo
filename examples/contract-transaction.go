@@ -4,10 +4,10 @@ import (
 	"fmt"
 
 	"github.com/umbracle/ethgo"
-	"github.com/umbracle/ethgo/abi"
-	"github.com/umbracle/ethgo/contract"
-	"github.com/umbracle/ethgo/jsonrpc"
-	"github.com/umbracle/ethgo/wallet"
+	"github.com/zhangtaoya/ethgo/abi"
+	"github.com/zhangtaoya/ethgo/contract"
+	"github.com/zhangtaoya/ethgo/jsonrpc"
+	"github.com/zhangtaoya/ethgo/wallet"
 )
 
 func contractTransaction() {

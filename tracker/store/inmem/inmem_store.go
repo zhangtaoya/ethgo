@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"github.com/umbracle/ethgo"
-	"github.com/umbracle/ethgo/tracker/store"
+	"github.com/zhangtaoya/ethgo/tracker/store"
 )
 
 var _ store.Store = (*InmemStore)(nil)

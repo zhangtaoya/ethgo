@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/umbracle/ethgo"
-	"github.com/umbracle/ethgo/jsonrpc/codec"
+	"github.com/zhangtaoya/ethgo/jsonrpc/codec"
 	"github.com/valyala/fasthttp"
 )
 

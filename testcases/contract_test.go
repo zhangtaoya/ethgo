@@ -6,8 +6,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/umbracle/ethgo"
-	"github.com/umbracle/ethgo/abi"
-	"github.com/umbracle/ethgo/testutil"
+	"github.com/zhangtaoya/ethgo/abi"
+	"github.com/zhangtaoya/ethgo/testutil"
 )
 
 func TestContract_Signatures(t *testing.T) {

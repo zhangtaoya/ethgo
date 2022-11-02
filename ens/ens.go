@@ -5,8 +5,8 @@ import (
 	"log"
 
 	"github.com/umbracle/ethgo"
-	"github.com/umbracle/ethgo/builtin/ens"
-	"github.com/umbracle/ethgo/jsonrpc"
+	"github.com/zhangtaoya/ethgo/builtin/ens"
+	"github.com/zhangtaoya/ethgo/jsonrpc"
 )
 
 type EnsConfig struct {

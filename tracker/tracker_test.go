@@ -12,12 +12,12 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/umbracle/ethgo"
-	"github.com/umbracle/ethgo/abi"
-	"github.com/umbracle/ethgo/blocktracker"
-	"github.com/umbracle/ethgo/jsonrpc"
-	"github.com/umbracle/ethgo/jsonrpc/codec"
-	"github.com/umbracle/ethgo/testutil"
-	"github.com/umbracle/ethgo/tracker/store/inmem"
+	"github.com/zhangtaoya/ethgo/abi"
+	"github.com/zhangtaoya/ethgo/blocktracker"
+	"github.com/zhangtaoya/ethgo/jsonrpc"
+	"github.com/zhangtaoya/ethgo/jsonrpc/codec"
+	"github.com/zhangtaoya/ethgo/testutil"
+	"github.com/zhangtaoya/ethgo/tracker/store/inmem"
 )
 
 func testConfig() ConfigOption {

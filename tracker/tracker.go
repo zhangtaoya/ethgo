@@ -16,11 +16,11 @@ import (
 	"time"
 
 	"github.com/umbracle/ethgo"
-	"github.com/umbracle/ethgo/blocktracker"
-	"github.com/umbracle/ethgo/etherscan"
-	"github.com/umbracle/ethgo/jsonrpc/codec"
-	"github.com/umbracle/ethgo/tracker/store"
-	"github.com/umbracle/ethgo/tracker/store/inmem"
+	"github.com/zhangtaoya/ethgo/blocktracker"
+	"github.com/zhangtaoya/ethgo/etherscan"
+	"github.com/zhangtaoya/ethgo/jsonrpc/codec"
+	"github.com/zhangtaoya/ethgo/tracker/store"
+	"github.com/zhangtaoya/ethgo/tracker/store/inmem"
 )
 
 var (

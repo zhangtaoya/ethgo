@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/umbracle/ethgo"
-	"github.com/umbracle/ethgo/wallet"
+	"github.com/zhangtaoya/ethgo/wallet"
 )
 
 func getUint64FromBigInt(b *ethgo.ArgBig) (uint64, bool) {
